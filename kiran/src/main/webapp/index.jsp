@@ -1,6 +1,6 @@
-<html>
-<body>
-<h2>Hello World!</h2>
-<h2>this is sai.</h2>
-</body>
-</html>
+<doctype html>
+<head>
+<script type="test/javascript"language="javascript"
+document.writeln("haii dude,welcome"):
+</script>
+</head>
